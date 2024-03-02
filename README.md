@@ -1,0 +1,1 @@
+Socket programming in C++ enables communication between applications running on different devices or within the same device. Sockets provide a mechanism for processes to exchange data over a network, utilizing the Internet Protocol suite.
